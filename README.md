@@ -27,6 +27,6 @@ print("Eigen values are {} and Eigen Vectors are {}".format(values,vector))
 ```
 
 ## Output:
-![OUTPUT](./eigenvalues.png)
+![OUTPUT](/eigenvalues.png)
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program.
